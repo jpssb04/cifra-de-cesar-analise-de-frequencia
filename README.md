@@ -1,4 +1,4 @@
-# Analisador de Cifra de César
+# Analisador de Frequência em Cifra de César
 
 Projeto desenvolvido como atividade prática para estudo de **criptografia clássica** e **criptoanálise**, com foco na compreensão de como cifras simples funcionam e como podem ser quebradas utilizando **análise de frequência de letras**.
 
